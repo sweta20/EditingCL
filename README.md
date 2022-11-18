@@ -29,7 +29,7 @@ Editing Roll-in
 > bash scripts/train.sh -i 3 -j 1 -m nat -u data-summ -r experiments/exp-2/checkpoints1/checkpoint_best.pt -a " --use-source 1  --noisy-expert --lr 0.0001 "
 
 Editing CL
-> bash scripts/train.sh -i 4 -j 1 -m nat -u ours-fil -r experiments/exp-2/checkpoints1/checkpoint_best.pt -a " --use-source 1 --noisy-expert --pacing root --lr 0.0001 "
+> bash scripts/train.sh -i 4 -j 1 -m nat -u data-summ -r experiments/exp-2/checkpoints1/checkpoint_best.pt -a " --use-source 1 --noisy-expert --pacing root --lr 0.0001 "
 
 ```
 
