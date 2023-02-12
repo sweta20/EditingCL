@@ -40,6 +40,9 @@ The `skip-token-refine` is used to ignore the grade tokens on the decoder side f
 
 Example evaluation configs for the summarization tasks can be found in  `scripts/evaluate_summ.sh`.
 
+### Acknowledgements
+
+We thank Eleftheria Briakou, Khanh Nguyen, Kianté Brantley, Weijia Xu, the members of the [CLIP lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) at UMD, and the anonymous ARR reviewers for their helpful and constructive comments. 
 
 ## Cite the work
 
